@@ -15,7 +15,7 @@
             "values": [
                 {
                     "fontSize": "72dp",
-                    "color": "white",
+                    "color": "`blue",
                     "textAlign": "center"
                 }
             ]
